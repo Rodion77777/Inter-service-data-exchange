@@ -1,7 +1,5 @@
 rootProject.name = 'Inter-service-data-exchange'
-//include 'first-module'
-//include 'second-module'
-
-includeBuild "first-module"
-includeBuild "second-module"
+include 'first-module'
+include 'second-module'
+include 'third-module'
 

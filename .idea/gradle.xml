@@ -3,22 +3,6 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <compositeConfiguration>
-          <compositeBuild compositeDefinitionSource="SCRIPT">
-            <builds>
-              <build path="$PROJECT_DIR$/first-module" name="first-module">
-                <projects>
-                  <project path="$PROJECT_DIR$/first-module" />
-                </projects>
-              </build>
-              <build path="$PROJECT_DIR$/second-module" name="second-module">
-                <projects>
-                  <project path="$PROJECT_DIR$/second-module" />
-                </projects>
-              </build>
-            </builds>
-          </compositeBuild>
-        </compositeConfiguration>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/Gradle/gradle-8.0.2" />
         <option name="modules">
@@ -26,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/first-module" />
             <option value="$PROJECT_DIR$/second-module" />
+            <option value="$PROJECT_DIR$/third-module" />
           </set>
         </option>
       </GradleProjectSettings>
